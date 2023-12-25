@@ -1,7 +1,7 @@
 const express = require("express");
 const cors = require("cors"); //to call the server from any other origin.
 const axios = require("axios");
-const PORT = process.env.PORT || 5173
+const PORT = process.env.PORT || 3001
 
 const app = express();
 app.use(express.json());
