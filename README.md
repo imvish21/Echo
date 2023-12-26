@@ -2,7 +2,7 @@
 A Full Stack Chat WebApp.
 
 Tools: 
-Chat Engine Api
+Chat Engine Api,
 VS Code
 
 Stack :
